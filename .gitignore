@@ -1,0 +1,13 @@
+# build outputs
+server
+client
+*.o
+*.dSYM/
+cmake-build-*/
+build/
+
+# temp files written during CSV updates
+data/*.tmp
+
+# macOS
+.DS_Store
