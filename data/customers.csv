@@ -1,5 +1,6 @@
 id,username,password,balance,active
-1,customer1,pass123,700.00,1
-2,customer2,pass123,4500.00,1
+1,customer1,pass123,500.00,1
+2,customer2,pass123,4700.00,1
 3,alice,alice123,5000.00,1
 4,bob,bob123,3000.00,1
+5,harsh,pass123,10000.00,1
